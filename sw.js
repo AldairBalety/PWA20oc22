@@ -11,6 +11,7 @@ self.addEventListener(
                     cache.addAll(
                         [
                             'fig.js',
+                            'w3.css'
                         ]
                     );        
                 }
